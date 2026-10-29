@@ -9,6 +9,7 @@ This project analyzes the relationship between gaming habits and students' acade
 ├── data_mining.ipynb                   # Machine learning model development and evaluation
 ├── etl.ipynb                           # Data extraction, transformation, and loading process
 ├── insight_testing.ipynb               # Exploratory analysis and insight generation
+├── Gaming vs Academic Performance Dasboard.png # Dashboard Image Power BI
 ├── Gaming vs Academic Performance.pbix # Interactive Power BI dashboard
 ├── Gaming_Academic_Performance.csv     # Original dataset
 ├── Gaming_Academic_Performance_DM.csv  # Dataset prepared for data mining
